@@ -1,0 +1,11 @@
+.btnDeleteItem {
+    &:hover {
+        color: red;
+    }
+}
+
+.gioHang .modal-dialog {
+    position: absolute;
+    top: 50px;
+    right: 10px;
+}
